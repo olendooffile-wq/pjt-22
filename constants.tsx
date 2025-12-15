@@ -16,7 +16,8 @@ import {
   ShoppingCart,
   CreditCard,
   Users2,
-  UserPlus
+  UserPlus,
+  Layout
 } from 'lucide-react';
 
 export const COLORS = {
@@ -44,4 +45,5 @@ export const ADMIN_MENU = [
   { label: 'Gestão de Clientes', id: 'clientes', icon: <UserPlus size={20} /> },
   { label: 'Estoque', id: 'estoque', icon: <Package size={20} /> },
   { label: 'Cabelo Guardado', id: 'cabelo', icon: <Scissors size={20} /> },
+  { label: 'Gestão de Site', id: 'site_mkt', icon: <Layout size={20} /> },
 ];
