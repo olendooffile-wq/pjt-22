@@ -1,0 +1,7 @@
+{
+  "name": "LS Célia Hair - Integrated Management System",
+  "description": "A comprehensive salon and academy management platform featuring e-commerce for products, hair, and courses, student tracking, appraiser tools, inventory management, and a robust administrative dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
